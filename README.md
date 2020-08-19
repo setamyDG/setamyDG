@@ -9,8 +9,9 @@ As a teenager, I never thought that ‘knowledge is the ultimate power tool’ w
 [![setamyDG github stats](https://github-readme-stats.vercel.app/api?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Worked for
-![alt text](https://media-exp1.licdn.com/dms/image/C4D0BAQFCwwXYO8nINg/company-logo_200_200/0?e=2159024400&v=beta&t=h8bwPrwScNaMwWdfn27yWPgM4-KrZVe2dlppy06Egh0)
-![alt text](https://www.opzl.pl/gfx/members/astec_it_services_sp_z_o_o_logotype_m.jpg)
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFCwwXYO8nINg/company-logo_200_200/0?e=2159024400&v=beta&t=h8bwPrwScNaMwWdfn27yWPgM4-KrZVe2dlppy06Egh0" width="100" height="100">
+
+<img src="https://www.opzl.pl/gfx/members/astec_it_services_sp_z_o_o_logotype_m.jpg" width="100" height="100">
 
 <!--
 **setamyDG/setamyDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
