@@ -1,5 +1,6 @@
 ### Hi there 👋
 As a teenager, I never thought that ‘knowledge is the ultimate power tool’ would become my motto. But here I am now — working at Codetain and learning from really awesome senior developers. I spend my evenings gaming with my friends, reading thrillers or developing my own projects. Lately, I found out that there is no such a thing as enough knowledge for a good programmer. But it’s ok! I love coding and learning something new every day. If I’m not taking programming courses, I’m probably taking pictures for my photography portfolio. I like having different hobbies. Actually, having extremely various interests is a common thing at Codetain! Oh, and as a true resident od lubuskie province, I’m a huge fan of żużel (en. speedway)! 😄. Feel free to send me a message 💬!
+<br></br>
 
 ### Find me at social media ⚡
 [<img align="left" alt="DanielGola" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,6 +29,7 @@ As a teenager, I never thought that ‘knowledge is the ultimate power tool’ w
 ### 📕 Latest Blog Posts
 - [Navigation with an animated indicator](https://codetain.com/blog/navigation-with-an-animated-indicator)
 - [How to create simple animation with GSAP](https://codetain.com/blog/how-to-create-simple-animation-with-gsap)
+<br></br>
 
 ### Worked for 🔭
 <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFCwwXYO8nINg/company-logo_200_200/0?e=2159024400&v=beta&t=h8bwPrwScNaMwWdfn27yWPgM4-KrZVe2dlppy06Egh0" width="100" height="100">
