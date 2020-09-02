@@ -11,6 +11,8 @@ As a teenager, I never thought that ‘knowledge is the ultimate power tool’ w
 ### My activity ✨
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
+<br></br>
+
 [![setamyDG github stats](https://github-readme-stats.vercel.app/api?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
 
