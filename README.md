@@ -5,12 +5,17 @@ As a teenager, I never thought that ‘knowledge is the ultimate power tool’ w
 [Facebook](https://www.facebook.com/daniel.gola1)
 [Linkedin](https://www.linkedin.com/in/daniel--gola/)
 
-### My activity ✨
-[![setamyDG github stats](https://github-readme-stats.vercel.app/api?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### My activity ✨
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
+[![setamyDG github stats](https://github-readme-stats.vercel.app/api?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setamyDG)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages & Tools ⚡
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,3 +48,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://codetain.com/about-us/daniel-gola
+[twitter]: https://twitter.com/DanielGola3
+[linkedin]: https://www.linkedin.com/in/daniel--gola/
+[facebook]: https://www.facebook.com/daniel.gola1
