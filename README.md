@@ -30,6 +30,8 @@ As a teenager, I never thought that ‘knowledge is the ultimate power tool’ w
 ### 📕 Latest Blog Posts
 - [Navigation with an animated indicator](https://codetain.com/blog/navigation-with-an-animated-indicator)
 - [How to create simple animation with GSAP](https://codetain.com/blog/how-to-create-simple-animation-with-gsap)
+- [Animate element's during scrolling page](https://codetain.com/blog/animate-element-s-during-scrolling-page)
+- [How to improve your Github profile ?](https://codetain.com/blog/how-to-improve-your-github-profile)
 <br></br>
 
 ### Worked for 🔭
