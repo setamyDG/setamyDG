@@ -14,8 +14,6 @@ As a teenager, I never thought that ‘knowledge is the ultimate power tool’ w
 - 👯 I’m looking to collaborate with other content creators
 <br></br>
 
-[![setamyDG github stats](https://github-readme-stats.vercel.app/api?username=setamyDG)](https://github.com/setamyDG/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setamyDG)](https://github.com/setamyDG/github-readme-stats)
 
 ### Languages & Tools ⚡
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
